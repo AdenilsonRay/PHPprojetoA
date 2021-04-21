@@ -1,0 +1,73 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.FotosReducao{
+    height: 100vh;
+    background-image: url('../../imagens/TelaPrincipalFotos/1400px.png');
+    background-attachment: fixed;
+    background-size:cover;
+
+}
+
+@media screen and (max-width: 1400px){
+    .header.FotosReducao{background-image: url('../../imagens/TelaPrincipalFotos/1400px.png');}
+}
+@media screen and (max-width: 1300px){
+    .header.FotosReducao{background-image: url('../../imagens/TelaPrincipalFotos/1300px.png');}
+}
+@media screen and (max-width: 1200px){
+    .header.FotosReducao{background-image: url('../../imagens/TelaPrincipalFotos/1200px.png');}
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+
+
+#rodape{
+    background-color: white;
+    width: 100%;
+    height: 200px;
+}
+
+#divCorpo{
+    background-color: yellowgreen;
+    width: 100%;
+    height: 700px;
+}
+
+
+/*@media screen and (max-width: 1100px){
+    .header.FotosReducao{background-image: url('../../imagens/TelaPrincipalFotos/1100px.png');}
+}
+@media screen and (max-width: 1000px){
+    .header.FotosReducao{background-image: url('../../imagens/TelaPrincipalFotos/1000px.png');}
+}
+@media screen and (max-width: 900px){
+    .header.FotosReducao{background-image: url('../../imagens/TelaPrincipalFotos/900px.png');}
+}@media screen and (max-width: 800px){
+    .header.FotosReducao{background-image: url('../../imagens/TelaPrincipalFotos/800px.png');}
+}@media screen and (max-width: 700px){
+    .header.FotosReducao{background-image: url('../../imagens/TelaPrincipalFotos/700px.png');}
+}@media screen and (max-width: 600px){
+    .header.FotosReducao{background-image: url('../../imagens/TelaPrincipalFotos/600px.png');}
+}@media screen and (max-width: 500px){
+    .header.FotosReducao{background-image: url('../../imagens/TelaPrincipalFotos/500px.png');}
+}@media screen and (max-width: 400px){
+    .header.FotosReducao{background-image: url('../../imagens/TelaPrincipalFotos/400px.png');}
+}*/
+
+/*#cabecario{
+    width: 100%;
+    height: 100vh;
+    background-image: url('../../imagens/comercialEuASAT.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-size:cover;
+}*/
