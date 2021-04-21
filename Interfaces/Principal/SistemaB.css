@@ -10,7 +10,6 @@
     background-size:cover;
 
 }
-
 @media screen and (max-width: 1400px){
     .header.FotosReducao{background-image: url('../../imagens/comercialEuASAT.jpg');}
 }
@@ -20,13 +19,32 @@ body{
     font-size: medium;
 }
 
-#rodape{
+
+
+#divCabecarioI{
+    background-color: red;
+    height: 300px;
+    width: 100%;
+}
+#divLogoI{
+    background-color: yellow;
+}
+#divAcessoI{
+    background-color: green;
+}
+#navLogoI{
+    background-color: yellowgreen;
+}
+
+
+
+#rodapeI{
     background-color: white;
     width: 100%;
     height: 200px;
 }
 
-#divCorpo{
+#divCorpoI{
     background-color: yellowgreen;
     width: 100%;
     height: 700px;
