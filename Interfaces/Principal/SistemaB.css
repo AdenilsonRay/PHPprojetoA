@@ -5,21 +5,16 @@
 
 .FotosReducao{
     height: 100vh;
-    background-image: url('../../imagens/TelaPrincipalFotos/1400px.png');
+    background-image: url('../../imagens/comercialEuASAT.jpg');
     background-attachment: fixed;
     background-size:cover;
 
 }
 
 @media screen and (max-width: 1400px){
-    .header.FotosReducao{background-image: url('../../imagens/TelaPrincipalFotos/1400px.png');}
+    .header.FotosReducao{background-image: url('../../imagens/comercialEuASAT.jpg');}
 }
-@media screen and (max-width: 1300px){
-    .header.FotosReducao{background-image: url('../../imagens/TelaPrincipalFotos/1300px.png');}
-}
-@media screen and (max-width: 1200px){
-    .header.FotosReducao{background-image: url('../../imagens/TelaPrincipalFotos/1200px.png');}
-}
+
 
 body{
     font-family: 'Times New Roman', Times, serif;
